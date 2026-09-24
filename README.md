@@ -5,9 +5,9 @@ Landing page estática em HTML, CSS e JavaScript, pronta para GitHub e Netlify.
 ## Estrutura
 
 - `index.html` — conteúdo e estrutura da página
-- `css/styles.css` — apresentação e comportamento responsivo
-- `js/main.js` — menu, animações, packs e galeria
-- `assets/images/` — logótipo e imagens utilizadas
+- `styles.css` — apresentação e comportamento responsivo
+- `main.js` — menu, animações, packs e galeria
+- ficheiros `.jpg` — logótipo e imagens utilizadas
 - `netlify.toml` — configuração de publicação e cabeçalhos
 - `robots.txt` — bloqueio de indexação enquanto o projeto for uma demonstração
 
